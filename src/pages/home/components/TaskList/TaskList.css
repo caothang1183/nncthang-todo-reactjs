@@ -1,0 +1,11 @@
+.TaskList {
+    padding: 2vh 10vh;
+    color: #fff;
+}
+
+.loading{
+    padding-top: 5vh;
+    text-align: center;
+    vertical-align: middle;
+    width: 100vh;
+}
